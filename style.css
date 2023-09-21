@@ -1,0 +1,25 @@
+body{
+    font-size:"Times New Roman", Times, serif;
+    margin: 0;
+    background-color: #23a391;
+    color: #e0ffcc;
+}
+
+header{
+    padding: 20px;
+    text-align:center;
+    box-shadow: 0 0 20px #000;
+}
+
+header p {
+    color: #6a8399; 
+}
+
+/*
+TODO: criar um estilo header por h1
+TODO: cria um estilo para secion
+TODO: criar um estilo para os filhos de section 
+TODO: quando o mouse passar em cima do link ele muda de cor
+TODO: cria um estiloa  responsiva 
+
+*/
