@@ -10,16 +10,102 @@ header{
     text-align:center;
     box-shadow: 0 0 20px #000;
 }
-
-header p {
-    color: #996a6afc; 
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    
+}
+nav li{
+    display: inline;
+    margin: 0 10px;   
+}
+nav a{
+    text-decoration: none;
+    color: #e0ffcc;
 }
 
+header p {
+    color: white; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    box-shadow: 0 0 20px #000;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+header h1{
+    background:aquamarine ;
+    padding: 5px;
+    color: #fff;
+    margin: 30px;
+    font-size: 25px;
+    border-radius: 0 10px 10px 0;
+}
+p{
+    margin: 30px;
+    
+}
+p:hover{
+    margin: 30px;
+    color: white;
+    font-size: 20px;
+}
+section h1:hover{
+    color: gold;
+}
+section  h3:hover{
+    color: gold;
+}
+ul li:hover{
+    color: white;
+    font-size: 20px;
+    
+}
+section h1 {
+    background:aqua ;
+    padding: 15px;
+    color: #fff;
+    margin: 30px;
+    font-size: 20px;
+    border-radius: 0 50px 50px 0;
+}
+section h3{
+    background:aqua ;
+    padding: 15px;
+    color: #fff;
+    margin: 30px;
+    font-size: 20px;
+    border-radius: 0 50px 50px 0;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: #e0ffcc;
+    font-size: 20px;
+}
+ul li a:hover{
+    color:white ;
+}
+footer{
+    text-align: center;
+    background-color: #ff6a0075;
+    color: #e0ffcc;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
 /*
-TODO: criar um estilo header por h1
-TODO: cria um estilo para secion
-TODO: criar um estilo para os filhos de section 
-TODO: quando o mouse passar em cima do link ele muda de cor
 TODO: cria um estiloa  responsiva 
 
 */
