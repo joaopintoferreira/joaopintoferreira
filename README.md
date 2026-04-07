@@ -20,4 +20,4 @@
 
 📧 jocifer95@gmail.com
 
-![Snake animation](https://raw.githubusercontent.com/joaopintoferreira/joaopintoferreira/output/github-contribution-grid-snake.svg)
+
