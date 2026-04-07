@@ -27,8 +27,7 @@
 
 ---
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
-## 📈 GitHub Stats
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopintoferreira&show_icons=true&hide_border=true"/>
 
