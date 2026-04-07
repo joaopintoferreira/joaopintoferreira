@@ -28,11 +28,10 @@
 ---
 ## 📈 GitHub Stats
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopintoferreira&show_icons=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopintoferreira&layout=compact&hide_border=true"/>
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopintoferreira&show_icons=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopintoferreira&layout=compact&cache_seconds=86400"/>
+</p>
 
 ## 🌐 Contact
 
