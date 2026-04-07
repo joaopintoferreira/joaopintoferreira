@@ -27,8 +27,11 @@
 
 ---
 ## 📈 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopintoferreira&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopintoferreira&layout=compact"/>
+## 📈 GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopintoferreira&show_icons=true&theme=default"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopintoferreira&layout=compact&theme=default"/>
 
 
 ## 🌐 Contact
