@@ -32,9 +32,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaopintoferreira&show_icons=true&cache_seconds=86400"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopintoferreira&layout=compact&cache_seconds=86400"/>
 </p>
+
 ---
 ## streak stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopintoferreira"/>
+
 ---
 ## 🌐 Contact
 
